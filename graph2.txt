@@ -1,0 +1,57 @@
+19 37 
+"Copenhagen" 687 1323
+"Hamburg" 774 1175
+"Berlin" 626 1131
+"Warsaw" 339 1149
+"Amsterdam" 957 1096
+"Brussels" 983 992
+"Prague" 574 975
+"Paris" 1062 870
+"Bern" 853 818
+"Munich" 679 835
+"Vienna" 478 870
+"Budapest" 365 844
+"Belgrade" 269 687
+"Trieste" 548 722
+"Genoa" 783 609
+"Rome" 600 452
+"Madrid" 1375 383
+"Naples" 504 400
+"Lisbon" 1619 296
+"" Copenhagen Hamburg 180
+"" Hamburg Amsterdam 338
+"" Hamburg Berlin 182
+"" Berlin Bern 628
+"" Berlin Prague 219
+"" Berlin Warsaw 345
+"" Warsaw Prague 479
+"" Warsaw Vienna 464
+"" Warsaw Budapest 394
+"" Amsterdam Munich 526
+"" Amsterdam Bern 558
+"" Amsterdam Brussels 164
+"" Brussels Bern 497
+"" Brussels Genoa 740
+"" Brussels Paris 225
+"" Prague Vienna 185
+"" Prague Munich 174
+"" Paris Genoa 629
+"" Paris Madrid 805
+"" Bern Munich 311
+"" Bern Trieste 489
+"" Bern Genoa 304
+"" Bern Madrid 1104
+"" Munich Vienna 280
+"" Munich Rome 582
+"" Vienna Budapest 155
+"" Vienna Trieste 317
+"" Vienna Belgrade 501
+"" Budapest Trieste 384
+"" Budapest Belgrade 263
+"" Belgrade Trieste 403
+"" Trieste Genoa 361
+"" Trieste Rome 442
+"" Genoa Madrid 951
+"" Genoa Rome 328
+"" Rome Naples 134
+"" Madrid Lisbon 339
